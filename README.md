@@ -56,3 +56,16 @@ The goal of this portfolio is to demonstrate practical data analysis skills thro
 -----------------------------------
 
 This portfolio will be continuously updated with new projects and analyses.
+
+
+
+📊 Projects
+1. Supply Chain Dashboard | Microsoft Excel
+
+Interactive Supply Chain Dashboard built in Microsoft Excel to analyze sales, inventory, orders, shipping, and operational performance.
+
+**Tools:** Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers
+
+Files:
+- [Excel Dashboard](./SupplyChain%20Dashboard.xlsx)
+- [Dashboard Preview](./SupplyChain%20Dashboard.pdf)
