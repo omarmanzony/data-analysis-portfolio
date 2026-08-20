@@ -59,13 +59,24 @@ This portfolio will be continuously updated with new projects and analyses.
 
 
 
-📊 Projects
+**Projects**
 1. Supply Chain Dashboard | Microsoft Excel
 
 Interactive Supply Chain Dashboard built in Microsoft Excel to analyze sales, inventory, orders, shipping, and operational performance.
 
-**Tools:** Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers
+Tools: Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers
 
 Files:
 - [Excel Dashboard](./SupplyChain%20Dashboard.xlsx)
 - [Dashboard Preview](./SupplyChain%20Dashboard.pdf)
+
+
+2. Data Model Dashboard | Microsoft Excel
+
+Sales dashboard built in Microsoft Excel to analyze sales performance across months, categories, subcategories, countries, and gender.
+
+Tools: Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers
+
+Files:
+- [Excel Dashboard](./Data%20model%20Dashboard.xlsx)
+- [Dashboard Preview](./Data%20model%20Dashboard.pdf)
