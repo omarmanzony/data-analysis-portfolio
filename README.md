@@ -98,5 +98,5 @@ Interactive HR dashboard built in Microsoft Power BI to analyze employee attriti
 Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
 
 Files:
-- [Power BI Dashboard](./Employee%20Attrition%20Dashboard.pbix)
-- [Dashboard Preview](./Employee%20Attrition%20Dashboard.pdf)
+- [Power BI Dashboard](./EmployeeAttrition%20Dashboard.pbix)
+- [Dashboard Preview](./EmployeeAttrition%20Dashboard.pdf)
