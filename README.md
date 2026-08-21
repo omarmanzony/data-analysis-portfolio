@@ -100,3 +100,14 @@ Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
 Files:
 - [Power BI Dashboard](./EmployeeAttrition%20Dashboard.pbix)
 - [Dashboard Preview](./EmployeeAttrition%20Dashboard.pdf)
+
+
+5. Customer Success & Sales Performance Dashboard | Microsoft Power BI
+
+Interactive Power BI dashboard designed to analyze customer success and sales performance. The dashboard provides insights into customer feedback, positive rates, response rates, account manager performance, customer classifications, industries, and job titles.
+
+Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
+
+Files:
+- [Power BI Dashboard](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard.pbix)
+- [Dashboard Preview](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard.pdf)
