@@ -96,6 +96,7 @@ Files:
 4. Employee Attrition Dashboard | Microsoft Power BI
 Interactive HR dashboard built in Microsoft Power BI to analyze employee attrition, workforce distribution, departments, job roles, gender, business travel, and education fields.
 Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
+
 Files:
-Power BI Dashboard
-Dashboard Preview
+- [Power BI Dashboard](./Employee%20Attrition%20Dashboard.pbix)
+- [Dashboard Preview](./Employee%20Attrition%20Dashboard.pdf)
