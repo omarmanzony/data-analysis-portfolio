@@ -80,3 +80,14 @@ Tools: Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers
 Files:
 - [Excel Dashboard](./Data%20model%20Dashboard.xlsx)
 - [Dashboard Preview](./Data%20model%20Dashboard.pdf)
+
+
+3. Sales Dashboard | Microsoft Power BI
+
+Interactive Sales Dashboard built in Microsoft Power BI to analyze sales performance, orders, quantities sold, regions, product categories, payment types, and salespersons.
+
+**Tools:** Microsoft Power BI, Power Query, DAX
+
+Files:
+- [Power BI Dashboard](./Sales%20Dashboard.pbix)
+- [Dashboard Preview](./Sales%20Dashboard.pdf)
