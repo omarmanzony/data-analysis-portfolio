@@ -91,3 +91,15 @@ Interactive Sales Dashboard built in Microsoft Power BI to analyze sales perform
 Files:
 - [Power BI Dashboard](./Sales%20Dashboard.pbix)
 - [Dashboard Preview](./Sales%20Dashboard.pdf)
+
+
+4. Employee Attrition Dashboard | Microsoft Power BI
+
+Interactive HR dashboard built in Microsoft Power BI to analyze employee attrition and workforce distribution. The dashboard provides insights into attrition across departments, job roles, gender, business travel, and education fields.
+
+Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
+
+Files:
+
+- "Power BI Dashboard" (./Employee%20Attrition%20Dashboard.pbix)
+- "Dashboard Preview" (./Employee%20Attrition%20Dashboard.pdf)
