@@ -112,3 +112,16 @@ Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
 Files:
 - [Power BI Dashboard](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard.pbix)
 - [Dashboard Preview](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard.pdf)
+
+
+6. Adventure Works Dashboard | Microsoft Power BI
+
+Interactive Power BI dashboard built to analyze sales performance, customer behavior, product performance, and business profitability.
+
+The dashboard provides insights into revenue, cost, profit, profit margin, sales quantity, customer demographics, product categories, subcategories, countries, and monthly sales trends.
+
+Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
+
+Files:
+- [Power BI Dashboard](./Adventure%20Works%20Dashboard.pbix)
+- [Dashboard Preview](./Adventure%20Works%20Dashboard.pdf)
