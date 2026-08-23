@@ -59,6 +59,8 @@ This portfolio will be continuously updated with new projects and analyses.
 
 
 
+
+
 *Projects*
 
 • Adventure Works Dashboard | Microsoft Power BI
