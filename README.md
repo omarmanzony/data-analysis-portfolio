@@ -59,62 +59,9 @@ This portfolio will be continuously updated with new projects and analyses.
 
 
 
-**Projects**
-1. Supply Chain Dashboard | Microsoft Excel
+*Projects*
 
-Interactive Supply Chain Dashboard built in Microsoft Excel to analyze sales, inventory, orders, shipping, and operational performance.
-
-Tools: Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers
-
-Files:
-- [Excel Dashboard](./SupplyChain%20Dashboard.xlsx)
-- [Dashboard Preview](./SupplyChain%20Dashboard.pdf)
-
-
-2. Data Model Dashboard | Microsoft Excel
-
-Sales dashboard built in Microsoft Excel to analyze sales performance across months, categories, subcategories, countries, and gender.
-
-Tools: Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers
-
-Files:
-- [Excel Dashboard](./Data%20model%20Dashboard.xlsx)
-- [Dashboard Preview](./Data%20model%20Dashboard.pdf)
-
-
-3. Sales Dashboard | Microsoft Power BI
-
-Interactive Sales Dashboard built in Microsoft Power BI to analyze sales performance, orders, quantities sold, regions, product categories, payment types, and salespersons.
-
-**Tools:** Microsoft Power BI, Power Query, DAX
-
-Files:
-- [Power BI Dashboard](./Sales%20Dashboard.pbix)
-- [Dashboard Preview](./Sales%20Dashboard.pdf)
-
-
-4. Employee Attrition Dashboard | Microsoft Power BI
-   
-Interactive HR dashboard built in Microsoft Power BI to analyze employee attrition, workforce distribution, departments, job roles, gender, business travel, and education fields.
-Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
-
-Files:
-- [Power BI Dashboard](./EmployeeAttrition%20Dashboard.pbix)
-- [Dashboard Preview](./EmployeeAttrition%20Dashboard.pdf)
-
-
-5. Customer Success & Sales Performance Dashboard | Microsoft Power BI
-
-Interactive Power BI dashboard designed to analyze customer success and sales performance. The dashboard provides insights into customer feedback, positive rates, response rates, account manager performance, customer classifications, industries, and job titles.
-
-Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
-
-Files:
-- [Power BI Dashboard](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard.pbix)
-- [Dashboard Preview](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard.pdf)
-
-
-6. Adventure Works Dashboard | Microsoft Power BI
+• Adventure Works Dashboard | Microsoft Power BI
 
 Interactive Power BI dashboard built to analyze sales performance, customer behavior, product performance, and business profitability.
 
@@ -123,5 +70,71 @@ The dashboard provides insights into revenue, cost, profit, profit margin, sales
 Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
 
 Files:
-- [Power BI Dashboard](./Adventure%20Works%20Dashboard.pbix)
-- [Dashboard Preview](./Adventure%20Works%20Dashboard.pdf)
+
+[Power BI Dashboard](./Adventure%20Works%20Dashboard.pbix)
+[Dashboard Preview](./Adventure%20Works%20Dashboard.pdf)
+
+--------------------------------------
+
+• Customer Success & Sales Performance Dashboard | Microsoft Power BI
+
+Interactive Power BI dashboard designed to analyze customer success and sales performance. The dashboard provides insights into customer feedback, positive rates, response rates, account manager performance, customer classifications, industries, and job titles.
+
+Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
+
+Files:
+
+[Power BI Dashboard](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard.pbix)
+[Dashboard Preview](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard.pdf)
+
+--------------------------------------
+
+• Employee Attrition Dashboard | Microsoft Power BI
+
+Interactive HR dashboard built in Microsoft Power BI to analyze employee attrition, workforce distribution, departments, job roles, gender, business travel, and education fields.
+
+Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
+
+Files:
+
+[Power BI Dashboard](./EmployeeAttrition%20Dashboard.pbix)
+[Dashboard Preview](./EmployeeAttrition%20Dashboard.pdf)
+
+--------------------------------------
+
+• Sales Dashboard | Microsoft Power BI
+
+Interactive Sales Dashboard built in Microsoft Power BI to analyze sales performance, orders, quantities sold, regions, product categories, payment types, and salespersons.
+
+Tools: Microsoft Power BI, Power Query, DAX
+
+Files:
+
+[Power BI Dashboard](./Sales%20Dashboard.pbix)
+[Dashboard Preview](./Sales%20Dashboard.pdf)
+
+---------------------------------------
+
+• Data Model Dashboard | Microsoft Excel
+
+Sales dashboard built in Microsoft Excel to analyze sales performance across months, categories, subcategories, countries, and gender.
+
+Tools: Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers
+
+Files:
+
+[Excel Dashboard](./Data%20model%20Dashboard.xlsx)
+[Dashboard Preview](./Data%20model%20Dashboard.pdf)
+
+--------------------------------------
+
+• Supply Chain Dashboard | Microsoft Excel
+
+Interactive Supply Chain Dashboard built in Microsoft Excel to analyze sales, inventory, orders, shipping, and operational performance.
+
+Tools: Microsoft Excel, Power Query, PivotTables, PivotCharts, Slicers
+
+Files:
+
+[Excel Dashboard](./SupplyChain%20Dashboard.xlsx)
+[Dashboard Preview](./SupplyChain%20Dashboard.pdf)
