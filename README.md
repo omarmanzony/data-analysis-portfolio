@@ -63,6 +63,20 @@ This portfolio will be continuously updated with new projects and analyses.
 
 *Projects*
 
+• Customer Success & Sales Performance Dashboard – (Reworked & Enhanced Version) | Microsoft Power BI
+
+Interactive Power BI dashboard built to analyze customer success, sales performance, customer feedback, customer classifications, and Account Manager performance.
+
+The dashboard provides insights into customer engagement, response rates, positive feedback, customer segments, industries, job titles, and performance across Account Managers.
+
+Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
+
+Files:
+
+[Power BI Dashboard](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard%20%E2%80%93%20Reworked%20%26%20Enhanced%20Version.pbix) | [Dashboard Preview](./Customer%20Success%20%26%20Sales%20Performance%20Dashboard%20%E2%80%93%20Reworked%20%26%20Enhanced%20Version.pdf)
+
+--------------------------------------
+
 • Adventure Works Dashboard | Microsoft Power BI
 
 Interactive Power BI dashboard built to analyze sales performance, customer behavior, product performance, and business profitability.
