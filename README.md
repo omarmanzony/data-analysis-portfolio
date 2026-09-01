@@ -77,6 +77,20 @@ Files:
 
 --------------------------------------
 
+• CoffeeShop Dashboard | Microsoft Power BI
+
+Interactive Power BI dashboard built to analyze coffee shop sales, product performance, and store performance.
+
+The dashboard provides insights into total sales, sales by month, sales by category, top 10 products, sales by location, product types, quantity by category, orders by hour, orders by store, and orders by days & hours.
+
+Tools: Microsoft Power BI, Power Query, DAX, Data Modeling
+
+Files:
+
+[Power BI Dashboard](CoffeeShop%20Dashboard.pbix) | [Dashboard Preview](CoffeeShop%20Dashboard.pdf)
+
+-----------------------------------------------------------------------
+
 • Adventure Works Dashboard | Microsoft Power BI
 
 Interactive Power BI dashboard built to analyze sales performance, customer behavior, product performance, and business profitability.
